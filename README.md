@@ -1,3 +1,5 @@
+🚀 Pathfinding Algorithms in Python
+
 This project implements and compares classical search & pathfinding algorithms:
 ✨ BFS | ⚡ UCS | 🌟 A* | 🔺 Hill Climbing
 It also supports dynamic replanning 🌀 when obstacles appear in the grid!
